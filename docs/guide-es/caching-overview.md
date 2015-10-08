@@ -3,7 +3,7 @@ El Almacenamiento en Caché
 
 El almacenamiento en caché es una forma económica y eficaz para mejorar el rendimiento de una aplicación web. Mediante
 el almacenamiento de datos relativamente estáticos en la memoria caché y su correspondiente recuperación cuando éstos sean
-solicidatos, la aplicación salvaría todo ese tiempo y recursos necesarios para volver a generarlos cada vez desde cero.
+solicitados, la aplicación salvaría todo ese tiempo y recursos necesarios para volver a generarlos cada vez desde cero.
 
 El almacenamiento puede ocurrir en diferentes niveles y lugar en una aplicación Web. En el lado del servidor, en el
 nivel inferior, la memoria caché puede ser utilizada para guardar algunos datos básicos, tales como la lista más reciente
